@@ -2,11 +2,11 @@
 
 # **WIC - Waste Ink Counter Reset**
 
-**A free, research‑driven waste‑ink counter tool over SNMP**
-*No credits. No paywall. Your printer, your maintenance.*
+**A free, research‑driven waste‑ink counter tool over SNMP**  
+*No credits. No paywall. Your printer*  
+**Cause No-one should have to continue to pay for something they bought once.**
 
 </div>
-
 <p align="center">
   <a href="#license"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-lightgrey" /></a>
 </p>
